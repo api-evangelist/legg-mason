@@ -1,7 +1,11 @@
 aid: legg-mason
-url: https://raw.githubusercontent.com/api-evangelist/legg-mason/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/legg-mason/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.legg-mason.com
+description: >-
+  Legg Mason was a global asset management firm offering investment products and services
+  through a network of investment affiliates before being acquired by Franklin Resources.
