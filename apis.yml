@@ -7,7 +7,7 @@ description: >-
   resources and product information are now consolidated under Franklin
   Templeton, and no public REST APIs or developer portal have been identified.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Asset Management
   - Investment Management
