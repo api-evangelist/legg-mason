@@ -1,7 +1,9 @@
 ---
 title: Franklin Resources compra a su rival, Legg Mason
 url: https://invezz.com/news/2020/02/18/franklin-resources-buys-rival-asset-manager-legg-mason/
-date: '2026-05-25'
+published: '2020-02-18'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Legg Mason" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Annual Report by Investment Company (Form N-CSR)
 url: https://www.publicnow.com/view/3AD608B6FEADD78DDCEE2B29D2E10AE1F1C57217?1766519326
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Legg Mason" press release artificial intelligence'
 position: 2
 source: serpapi-google
